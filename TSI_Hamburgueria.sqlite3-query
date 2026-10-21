@@ -1,0 +1,12 @@
+-- database: :memory:
+
+
+CREATE TABLE ingredientes (
+    id_ingredientes INT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL UNIQUE,
+    quantidade_estoque INT NOT NULL DEFAULT 0
+        CHECK (quantidade_estoque >= 0),
+    validade DATE
+);
+
+
