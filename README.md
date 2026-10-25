@@ -3,4 +3,8 @@ banco de dados de uma harbugueria.
 
 ## criadores
 
--jucelyno marlon batista da silva.
+-Jucelyno Marlon Batista da Silva.
+
+-Maria da Guia Ferreira da Silva
+
+-SAMYR FERNANDES SILVA

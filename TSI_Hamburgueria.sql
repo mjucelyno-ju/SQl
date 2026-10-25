@@ -1,5 +1,6 @@
 -- database: :memory:
-//codigos utilizandos na criaçao do banco de dados da hamburgueria.
+
+-- codigos utilizandos na criaçao do banco de dados da hamburgueria.
 
 CREATE TABLE clientes (
     id_clientes INT PRIMARY KEY,
