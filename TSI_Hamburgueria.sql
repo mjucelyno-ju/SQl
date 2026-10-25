@@ -77,6 +77,21 @@ CREATE TABLE pagamentos (
     FOREIGN KEY (id_pedidos) REFERENCES pedidos(id_pedidos)
 );
 
+INSERT INTO
+    clientes (id_clientes, nome, telefone)
+VALUES
+    (1, 'augusto silva', '(84) 99699-9967'),
+    (2, 'jose santos', '(84) 94699-5567'),
+    (3, 'maria souza', '(84) 94680-3517'),
+    (4, 'fernando', '(84) 97699-7767'),
+    (5, 'geovana', '(84) 93699-3567'),
+    (6, 'pedro', '(84) 94680-2515'),
+    (7, 'carlos santos', '(84) 97987-1767'),
+    (8, 'silva melo', '(84) 93619-3588'),
+    (9, 'mendes neto', '(84) 94651-2010'),
+    (10, 'francisca', '(84) 98560-3215');
+
+
 
 
 

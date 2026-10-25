@@ -1,10 +1,26 @@
-# SQl
-banco de dados de uma harbugueria.
+# 🍔 TSI Hamburgueria — Banco de Dados
 
-## criadores
+Projeto acadêmico desenvolvido na disciplina de **Banco de Dados**, com o objetivo de criar um banco de dados relacional para a hamburgueria fictícia **TSI Hamburgueria**.
 
--Jucelyno Marlon Batista da Silva.
+O sistema foi desenvolvido utilizando SQL e contempla a criação e o gerenciamento de tabelas para clientes, produtos, pedidos, itens do pedido, ingredientes e pagamentos, garantindo a organização e a integridade das informações.
 
--Maria da Guia Ferreira da Silva
+## 🎯 Objetivo
 
--SAMYR FERNANDES SILVA
+Aplicar os conhecimentos de modelagem conceitual, lógica e física, além da implementação e manipulação de dados utilizando SQL.
+
+## 🛠️ Tecnologias utilizadas
+
+- SQL
+- SQLite
+
+## 👨‍💻 Integrantes
+
+- Jucelyno Marlon Batista da Silva
+- Samyr Fernandes Silva
+- Maria da Guia Ferreira
+
+**Professor:** Ítalo Berg M. S. Reis
+
+---
+
+Projeto desenvolvido para fins acadêmicos.
